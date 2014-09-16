@@ -1,5 +1,4 @@
-CAPSChallenges
-==============
+![CAPSChallemge Header](https://raw.githubusercontent.com/uacaps/ResourceRepo/master/CAPSChallenges/CAPSChallenges-01.png)
 
 Welcome to the official GitHub repository for hackathons, CAPS-wide projects and more! Here you will find the all of the CAPS coding challenges and their leaderboards. For you newbies, participation occurs like so:
 
